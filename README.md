@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Student Task Manager — End-to-End DevOps Project
 
 An end-to-end DevOps project that combines a Student Task Manager web application with automated testing, containerization, CI/CD, Kubernetes deployment, and monitoring using industry-standard tools.
@@ -499,3 +500,6 @@ GitHub: Atharv-AJ24
 Repository: student-task-manager
 
 ⭐ If you find this project useful, consider giving the repository a star.
+=======
+# DOSSL
+>>>>>>> 13e807ca5abc1e01b747aa4ca288b7cb57b0bdf0
