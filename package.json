@@ -1,0 +1,26 @@
+{
+  "name": "student-task-manager",
+  "version": "1.0.0",
+  "description": "A simple web application for managing student tasks",
+  "main": "index.js",
+  "scripts": {
+  "start": "node app.js",
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview",
+  "test": "node test.js",
+  "assignment-test": "node test.js"
+ },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "jest-environment-jsdom": "^30.5.2",
+    "vite": "^6.0.0"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "prom-client": "^15.1.3"
+  }
+}
